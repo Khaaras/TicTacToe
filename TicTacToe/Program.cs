@@ -24,7 +24,7 @@ namespace TicTacToe
             Console.WriteLine("Witaj : " + ImieGracza1 + " i " + ImieGracza2);
             Console.WriteLine("Gracz " + ImieGracza1 + " to X a " + ImieGracza2 + "to O");
 
-            
+            asa
 
             WyswietlTablice();
 
